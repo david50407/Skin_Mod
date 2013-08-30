@@ -1,0 +1,9 @@
+gui.skinlist.title=皮膚伺服器設定...
+
+serverlist.title=皮膚伺服器列表
+
+addServer.title=新增皮膚伺服器
+addServer.serverName=伺服器名稱
+addServer.serverSkin=皮膚位址
+addServer.serverCloak=披風位址 (可為空)
+addServer.defaultName=Minecraft 皮膚伺服器

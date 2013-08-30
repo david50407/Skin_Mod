@@ -1,0 +1,9 @@
+gui.skinlist.title=Skin Server...
+
+serverlist.title=Skin Server List
+
+addServer.title=Add Skin Server
+addServer.serverName=Server Name
+addServer.serverSkin=Skin Address
+addServer.serverCloak=Cape Address (can be empty)
+addServer.defaultName=Minecraft Skin Server
